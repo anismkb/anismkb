@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anismkb&label=Profile%20views&color=0e75b6&style=flat" alt="anismkb" /> </p>
 
-- 🌱 I’m currently learning **kotlin**
+- 🌱 I'm currently on my way to improving my skills in **Kotlin** and **.NET**.
 
-- 🤝 I’m looking for a Job as a **software developer**
+- 🤝 I’m looking for a Job as a **mobile or web developer**
 
 - 📫 How to reach me **anismekbal2001@gmail.com**
 
